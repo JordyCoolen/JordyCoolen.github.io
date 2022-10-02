@@ -1,6 +1,6 @@
 site_name: index
 repo_name: jordycoolen/index
-repo_url: https://github.com/JordyCoolen
+repo_url: https://github.com/jordycoolen/index
 edit_uri: ""
 
 theme:
@@ -63,7 +63,7 @@ markdown_extensions:
         repo_url_shorthand: true
         social_url_shorthand: true
         user: Jordy Coolen
-        repo: Github page
+        repo: index
     - pymdownx.mark
     - pymdownx.smartsymbols
     - pymdownx.snippets:
