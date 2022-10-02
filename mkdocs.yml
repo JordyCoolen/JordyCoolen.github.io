@@ -37,7 +37,7 @@ theme:
       - awesome-pages
 
 nav:
-  - 'index.md'
+  - Home: index.md
 
 # extensions
 markdown_extensions:
