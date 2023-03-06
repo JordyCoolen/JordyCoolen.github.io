@@ -1,6 +1,6 @@
-site_name: index
-repo_name: jordycoolen/index
-repo_url: https://github.com/jordycoolen/index
+site_name: Github Page
+repo_name: Jordy Coolen Github
+repo_url: https://github.com/JordyCoolen
 edit_uri: ""
 
 theme:
@@ -17,8 +17,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green
-      accent: light blue
+      primary: light blue
+      accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
